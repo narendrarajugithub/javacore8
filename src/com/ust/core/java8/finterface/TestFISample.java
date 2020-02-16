@@ -8,8 +8,7 @@ public class TestFISample  {
 		test.testDef1();
 	}
 
-		
-		
+			
 	}
 	
 	

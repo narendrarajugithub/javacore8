@@ -1,7 +1,6 @@
 package com.ust.core.java8.foreach;
 
 
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
