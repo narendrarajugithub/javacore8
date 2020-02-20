@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class SampleStream {
  
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		List<Product> productList=new ArrayList<>();
 		productList.add(new Product("HP laptop", 0, 150));
 		productList.add(new Product("Dell laptop", 1, 200));

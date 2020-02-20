@@ -4,6 +4,7 @@ public class Product {
 	private String name;
 	private int id;
 	private Integer price;
+	
 	public String getName() {
 		return name;
 	}
