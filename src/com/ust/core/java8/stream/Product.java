@@ -1,9 +1,9 @@
 package com.ust.core.java8.stream;
 
 public class Product {
-	private String name;
-	private int id;
-	private Integer price;
+	public String name;
+	public int id;
+	public Integer price;
 	
 	public String getName() {
 		return name;
